@@ -1,0 +1,5 @@
+# materiali interni: non vanno pubblicati
+DATI.md
+assets/img/_raccolta/
+assets/img/*-maps*.png
+assets/img/*-maps-info.txt
